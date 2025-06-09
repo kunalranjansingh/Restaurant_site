@@ -1,0 +1,88 @@
+body{
+    background-color:rgb(254, 229, 191);
+    color: rgb(14, 13, 13);
+    margin: 20PX;
+}
+.home{
+    text-align:right;
+    background-color: rgb(253, 241, 227);
+    height: 20px;
+    padding: 20px;
+}
+.homee{
+    position:relative; right:80px;
+}
+.menu{
+    position:relative; right:60px
+}
+.about{
+    position:relative; right:40px
+}
+.contact{
+    position: relative; right:20px
+}
+header{
+    background-color:rgb(253, 241, 227);
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 2px;
+    
+}
+.h22{
+    font-size: 30px;
+    font-family: georgia;
+}
+.h2{
+    text-align: center;
+}
+.paragraph{
+    font-size: 20px;
+}
+.all{
+    background-color:rgb(253, 241, 227);
+    font-size: 20px;
+}
+.all2{
+    font-family: cursive;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.padd{
+    padding:10px;
+}
+.size{
+    font-family: arial;
+    padding: 20px;
+}
+.paddd{
+    position: relative; left:20px;
+}
+.copy{
+    text-align: center;
+    background-color: rgb(219, 198, 173);
+}
+.border{
+    border: 5px solid black;
+    border-radius: 50px;
+    width: 500px;
+    margin: auto;
+    
+}
+.border1{
+    border: 5px solid black;
+    border-radius: 50px;
+    width: 250px;
+    margin: auto;
+    
+}
+.border2{
+    border: 5px solid black;
+    border-radius: 50px;
+    width: 400px;
+    margin: auto;
+    
+}
